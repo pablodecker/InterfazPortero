@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterfazPortero</string>
+    <string name="agregar_equipo">Agregar Equipo</string>
+    <string name="habilitacion">Habilitacion</string>
+    <string name="telefono1">Telefono1</string>
+    <string name="configurar">Configurar</string>
+</resources>
